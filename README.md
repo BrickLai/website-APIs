@@ -4,7 +4,6 @@
 <li>Introduction - the aim of the webpage</li>
 <li>Technologies</li>
 <li>Key Code</li>
-<li>UI Page</li>
 <li>Launch</li>
 <li>Reference</li>
 
@@ -17,7 +16,6 @@
 <h3>Technologies</h3>
 <li>HTML5</li>
 <li>CSS3</li>
-<li>JavaScript</li>
 <li>Git</li>
 
 <h3>key Code</h3>
@@ -32,20 +30,10 @@
 }
 ```
 
-
-
-
-<h3>UI Page</h3>
-<img src="assets/img/UI Page.png">
-
-
-
 <h3>Launch</h3>
 <p>This webpage is prepared to launch, users can click the link to preview it.</p>
 <a href="https://bricklai.github.io/Personal-Page/index.html">Click here</a> to vie the webpage
 
 <h3>Reference</h3>
-<p><a href="https://en.wikipedia.org/wiki/Fahrenheit">Fahrenheit</a></p>
-<p><a href="https://en.wikipedia.org/wiki/Celsius">Celsius</a></p>
-<p><a href="https://www.w3schools.com/jsref/prop_node_innertext.asp">innerText</a></p>
-<p><a href="https://www.w3schools.com/js/js_if_else.asp">if else</a></p>
+<p><a href="https://github.com/BrickLai">Personal Github Link</a></p>
+<p><a href="https://banffnationalpark.com/">Banff National Park</a></p>
