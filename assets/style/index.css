@@ -269,6 +269,13 @@ input[type="button"] {
 .contact-02 {
     display: flex;
     justify-content: left;
+    gap:20px;
+    width: calc(50% - 300px);
+}
+
+.contact-03 {
+    display: flex;
+    flex-direction: column;
 }
 
 form {
