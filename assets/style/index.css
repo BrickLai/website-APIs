@@ -202,8 +202,8 @@ span {
 }
 
 .blogmore {
-    display: flex;
-    text-align:right;
+    float: right;
+    margin-right: 20px;
     text-decoration: none;
 }
 
@@ -237,9 +237,6 @@ span {
 }
 
 
-.contact{
-
-}
 
 .text-05{
     text-align: center;
@@ -271,16 +268,13 @@ input[type="button"] {
 
 .contact-02 {
     display: flex;
+    justify-content: left;
 }
-
 
 form {
     font-size: 20px;
 }
 
-.contact-02 {
-    justify-content: left;
-}
 
 input[type="text"] {
     padding: 30px 10px 30px 10px;
