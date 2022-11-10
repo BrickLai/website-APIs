@@ -32,7 +32,7 @@
 
 <h3>Launch</h3>
 <p>This webpage is prepared to launch, users can click the link to preview it.</p>
-<a href="https://bricklai.github.io/Personal-Page/index.html">Click here</a> to vie the webpage
+<a href="https://bricklai.github.io/Personal-Page/index.html">Click here</a> to view the webpage
 
 <h3>Reference</h3>
 <p><a href="https://github.com/BrickLai">Personal Github Link</a></p>
