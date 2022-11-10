@@ -109,7 +109,7 @@ body{
 
 }
 
-.hello {
+.hello, .welcome {
     text-align: center;
 }
 span {
@@ -270,13 +270,16 @@ input[type="button"] {
     display: flex;
     justify-content: left;
     gap:20px;
-    width: calc(50% - 300px);
+    width: calc (50% - 600px);
+    justify-content: center;
 }
 
-.contact-03 {
+.contact-03, .contact-04 {
     display: flex;
     flex-direction: column;
 }
+
+
 
 form {
     font-size: 20px;
