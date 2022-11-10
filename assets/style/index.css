@@ -37,7 +37,8 @@ ul {
 }
 
 .nav-links li {
-    display: inline;
+    display: inline-block;
+    float: right;
 }
 
 .nav-links li a{
