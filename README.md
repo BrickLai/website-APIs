@@ -1,9 +1,5 @@
 <h2>HappyDay Website with APIs</h2>
 
-<li>Technologies</li>
-<li>Key Code</li>
-<li>Launch</li>
-
 <h3>Technologies</h3>
 <li>HTML5</li>
 <li>CSS3</li>
